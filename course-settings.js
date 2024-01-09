@@ -12,10 +12,10 @@ const courseSettings = {
   bannerPath: "banner.svg",
   showExerciseDescriptionWhenNotLoggedIn: true,
   courseVariants: [
-    // {
-    //   tmcOrganization: "haaga-helia",
-    //   tmcCourse: "python-2022",
-    // },
+    {
+      tmcOrganization: "haaga-helia",
+      tmcCourse: "python-2024",
+    },
     // {
     //   tmcOrganization: "laurea",
     //   tmcCourse: "laurea-python-syksy-2023"
