@@ -225,7 +225,7 @@ Palkka 276.0 euroa
 
 </sample-output>
 
-Debugattaessa ohjelman toimintaa kokeillaan usein. Voikin olla hyödyllisä "kovakoodata" ongelman aiheuttavat syötteet suoraan koodiin sen sijaan, että ne kysyttäisiin joka kerta käyttäjältä. Tämä onnistuu esimerkiksi muuttamalla koodia tilapäisesti seuraavalla tavalla:
+Debugattaessa ohjelman toimintaa kokeillaan usein. Voikin olla hyödyllistä "kovakoodata" ongelman aiheuttavat syötteet suoraan koodiin sen sijaan, että ne kysyttäisiin joka kerta käyttäjältä. Tämä onnistuu esimerkiksi muuttamalla koodia tilapäisesti seuraavalla tavalla:
 
 ```python
 # tuntipalkka = float(input("Tuntipalkka: "))
