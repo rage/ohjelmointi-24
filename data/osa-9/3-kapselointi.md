@@ -78,7 +78,7 @@ class Pankkikortti:
         self.nimi = nimi
 ```
 
-Piilotettu attribuutti ei näy asiakkaalle, vaan siihen viittaaminen aiheutta virheilmoituksen. Niinpä nimen voi tulostaa ja sitä voi muuttaa:
+Piilotettu attribuutti ei näy asiakkaalle, vaan siihen viittaaminen aiheuttaa virheilmoituksen. Niinpä nimen voi tulostaa ja sitä voi muuttaa:
 
 ```python
 kortti = Pankkikortti("123456","Reijo Rahakas")
