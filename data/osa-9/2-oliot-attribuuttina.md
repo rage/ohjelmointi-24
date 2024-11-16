@@ -110,7 +110,7 @@ Importia tarvitaan vain jos tiedostossa käytetään jossain muualla  määritel
 import math
 
 x = 10
-print(f"luvun {x} {neliöjuuri math.sqrt(x)}")
+print(f"luvun {x} neliöjuuri {math.sqrt(x)}")
 ```
 
 Edellisessä tehtävässä oletettiin, että luokat on määritelty omissa tiedostoissaan. Esimerkki toteaa mm.
