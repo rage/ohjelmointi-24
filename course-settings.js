@@ -56,6 +56,10 @@ const courseSettings = {
       tmcOrganization: "ksyk",
       tmcCourse: "python-2024"
     },
+     {
+      tmcOrganization: "centria",
+      tmcCourse: "centria-python-2025"
+    },
   ],
 }
 
