@@ -19,7 +19,6 @@ Jos siis haluat suorittaa peruskurssin asteikolla 0-5, viimeinen mahdollisuus su
 
 ### Ohjelmoinnin jatkokurssi koepäivät 2024
 
-* Lauantai 14.12.2024
 * Tiistai &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.12.2024 **(Ylimääräinen koe)**
 * Lauantai 18.01.2025
 * Lauantai 15.02.2025
